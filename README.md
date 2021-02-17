@@ -32,7 +32,6 @@
 ```
 
 
-|
 ## Block Quotes
    > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as 
    > such this. The  text will keep wrapping in the block, until there's an empty line is added. 
