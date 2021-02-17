@@ -6,61 +6,75 @@
 
 
 ## Text Formatting
-- *Italicize*  - by using one a set of one *s around the text.  
+- _Italicize_  - Wrap text with (_) underscore symbol.  
 
-- **Bold**  - by using set of two *s around the text.
+- **Bold**  - Wrap text with set of two *s.
+
+- **_Bold AND Italicize_**  - Wrap text with (**_).  
+
+- ~~Strikeout~~ - Use ~~ Wrap text with (~~) symbols around the text for strikeout.  
+
+- Single line Code formatting `<span id="mySpan">Test</span>` - Surround desired text with (`) uptick symbols to format code style
 
 - Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
+```
+   _Italicize_  
 
-- ~~Strikeout~~ - Use ~~ symbols around the text for strikeout.  
+   **Bold**  
 
-- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+   **_Bold AND Italicize_** 
 
-- Unordered Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
-   - List 1
+   ~~Strikeout~~ 
+
+   Single line code formatting: `<span id="mySpan">Test</span>`
+
+   Underline (lol)
+```
+
+
+|
+## Block Quotes
+   > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as 
+   > such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+``` 
+   > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as 
+   > such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+```
+|
+## Creating Lists
+
+Unordered Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
+   - This is how
       - Sublist 1
       - Sublist 2
-   - List 2
-   - List 3
+   - you create
+   - an unordered list
 
-- Ordered Lists (Use the number 1 to create ordered lists. You can use unordered sublists within ordered lists)
+Ordered Lists (Use the number 1 to create ordered lists. You can use unordered sublists within ordered lists)
    1. This is how
       - unordered list
       - within an ordered list
    1. you create
-   1. a numbered list
+   1. an ordered list
 
-- Single line Code formatting `<span id="mySpan">Test</span>` - Surround desired text with (`) uptick symbols to format code style
+
 
 \
 Code Format:
  ```
-*Italicize*  
+   Unordered Lists
+      - List 1
+         - Sublist 1
+         - Sublist 2
+      - List 2
+      - List 3
 
-**Bold**  
-
-Underline (lol)
-
-~~Strikeout~~ 
-
-> Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences.
-   It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
-
-Bulleted Lists
-   - List 1
-      - Sublist 1
-      - Sublist 2
-   - List 2
-   - List 3
-
-Numbered Lists
-   1. This is how
-      - bulleted list
-      - within numbered list
-   1. you create
-   1. a numbered list
-
-Single line code formatting: `<span id="mySpan">Test</span>`
+   Ordered Lists
+      1. This is how
+         - unordered list
+         - within ordered list
+      1. you create
+      1. a numbered list
 ```
  
 |
