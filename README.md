@@ -9,48 +9,72 @@ You can create links to navigate to URLs. For eg: Go to [Reddit-Reddevils](https
 You can also show Images like the one above using the format below:
 ```
 Normal Text:
-[Go to Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/)
+[Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/)
 
 Images: (Use ! at the beginning)
 ![2018-russia-world-cup](https://i.imgur.com/XO8h0c8.jpg)
 
 ```
+
+
+
+
+
 ## Text Formatting
-*Italicize*  - by using one a set of 1 *s around the text.
+- *Italicize*  - by using one a set of one *s around the text.  
 
-**Bold**  - by using set of two *s around the text.
+- **Bold**  - by using set of two *s around the text.
 
-Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
+- Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
 
+- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
+   It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+      
+
+
+Line Breaks - 
  ```
 *Italicize*  
 
-**Bold** 
+**Bold**  
 
 Underline (lol)
+
+> Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
+   It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
 ```
  
 
-## Creating a table
-Formatted:
-**Player Number**|**Player Name**|
-|-------------|-------------|
-|1|Wayne Rooney|
-|2|Patrice Evra|
-|3|Marcus Rashford|
-|4|Bruno Fernandes|
-|5|Shobhittt|
 
-Code:
+
+
+## Creating a table
+Code Format:
 ```
-**Player Number**|**Player Name**|
-|-------------|-------------|
-|1|Anshu|
-|2|Swaroop|
-|3|Parasey|
-|4|Sanju |
-|5|Shobhittt|
+**Number**|**Player Name**|**Position**|
+|-------------|-------------|-------------|
+|9|Anthony Martial|Striker
+|23|Luke Shaw|Left Back
+|10|Marcus Rashford| Left Winger
+|18|Bruno Fernandes|Attacking Midfielder
+|7|Edinson Cavani|Striker
+|6|Paul Pogba|Defensive Midfielder
 ```
+Output:
+**Number**|**Player Name**|**Position**|
+|-------------|-------------|-------------|
+|9|Anthony Martial|Striker
+|23|Luke Shaw|Left Back
+|10|Marcus Rashford| Left Winger
+|18|Bruno Fernandes|Attacking Midfielder
+|7|Edinson Cavani|Striker
+|6|Paul Pogba|Defensive Midfielder
+
+
+
+
+
+\
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
