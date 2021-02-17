@@ -1,26 +1,44 @@
-# markdownCheatSheet
 
-# Welcome to Cincinnati World Cup 2018 Brackets
+# Welcome to Swaroop's Markdown CheatSheet 
+
+![swaroop-and-dex-tahoe](https://i.imgur.com/XO8h0c8.jpg)
+
+## Linking URLs or Images 
+You can create links to navigate to URLs. For eg: Go to [Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/), which is formatted as below: 
+
+You can also show Images like the one above using the format below:
+```
+Normal Text:
+[Go to Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/)
+
+Images: (Use ! at the beginning)
+![2018-russia-world-cup](https://i.imgur.com/XO8h0c8.jpg)
+
+```
  
-![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39490598-639a5c58-4d57-11e8-9c1e-9b266432149a.jpg)
+ ```
+## Text Formatting
+*Italicize*  - by using one a set of 1 *s around the text.
+
+**Bold**  - by using set of two *s around the text.
+
+## Header sizes
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+
+```
  
-**Groups**
-![world-cup-2018-groups](https://user-images.githubusercontent.com/38883585/39490656-8d3c31a8-4d57-11e8-80be-60e0859f435b.png)
 
-**Players**
-
-|**Player Number**|**Player Name**|
+**Creating a table** 
+**Player Number**|**Player Name**|
 |-------------|-------------|
 |1|Anshu|
 |2|Swaroop|
 |3|Parasey|
 |4|Sanju |
 |5|Shobhittt|
-
-```function myFunc(test){
-   console.log("Trying markdowns");
-}
-```
 
 
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -32,14 +50,13 @@ Test
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```
+function myFucntion(name){
+   console.log(name + " is just messing around with markdown syntax");
+} 
+
 ```
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
 
 - Bulleted
 - List
