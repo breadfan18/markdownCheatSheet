@@ -14,20 +14,19 @@
 
 - ~~Strikeout~~ - Use ~~ symbols around the text for strikeout.  
 
-- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
-   It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces. It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
 
-- Bulleted Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
+- Unordered Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
    - List 1
       - Sublist 1
       - Sublist 2
    - List 2
    - List 3
 
-- Numbered Lists (Use the number 1 to create numbered lists. You can use bulleted sublists within numbered lists)
+- Ordered Lists (Use the number 1 to create ordered lists. You can use unordered sublists within ordered lists)
    1. This is how
-      - bulleted list
-      - within numbered list
+      - unordered list
+      - within an ordered list
    1. you create
    1. a numbered list
 
@@ -60,9 +59,11 @@ Numbered Lists
       - within numbered list
    1. you create
    1. a numbered list
+
+Single line code formatting: `<span id="mySpan">Test</span>`
 ```
  
-
+|
 ## Linking URLs or Images 
 You can create links to navigate to URLs. For eg: Go to [Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/), which is formatted as below: 
 
@@ -77,9 +78,10 @@ Images: (Use ! at the beginning)
 ```
 
 
-
+|
 ## Creating a table
 Code Format:
+
 ```
 **Number**|**Player Name**|**Position**|
 |-------------|-------------|-------------|
@@ -100,7 +102,7 @@ Output:
 |7|Edinson Cavani|Striker
 |6|Paul Pogba|Defensive Midfielder
 
-
+|
 ## Code Block
 Use (```) (three uptick symbols) to start and end a code block 
 
@@ -109,7 +111,7 @@ Code Format:
 ![test](https://i.imgur.com/KnF3OLA.png)
 
 
-Output
+Output:
 ```
 function myFunction(name){
    console.log(name + " is just messing around with markdown syntax");
@@ -117,7 +119,7 @@ function myFunction(name){
 
 ```
 
-
+|
 
 
 
