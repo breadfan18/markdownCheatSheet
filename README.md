@@ -15,23 +15,34 @@ Images: (Use ! at the beginning)
 ![2018-russia-world-cup](https://i.imgur.com/XO8h0c8.jpg)
 
 ```
- 
- ```
 ## Text Formatting
 *Italicize*  - by using one a set of 1 *s around the text.
 
 **Bold**  - by using set of two *s around the text.
 
-## Header sizes
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
+Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
 
+ ```
+*Italicize*  
+
+**Bold** 
+
+Underline (lol)
 ```
  
 
-**Creating a table** 
+## Creating a table
+Formatted:
+**Player Number**|**Player Name**|
+|-------------|-------------|
+|1|Wayne Rooney|
+|2|Patrice Evra|
+|3|Marcus Rashford|
+|4|Bruno Fernandes|
+|5|Shobhittt|
+
+Code:
+```
 **Player Number**|**Player Name**|
 |-------------|-------------|
 |1|Anshu|
@@ -39,8 +50,7 @@ Images: (Use ! at the beginning)
 |3|Parasey|
 |4|Sanju |
 |5|Shobhittt|
-
-
+```
 You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
