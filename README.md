@@ -1,5 +1,5 @@
 
-# Welcome to Swaroop's Markdown CheatSheet 
+# Swaroop and Dexter's Markdown CheatSheet 
 
 
 ![swaroop-and-dex-tahoe](https://i.imgur.com/XO8h0c8.jpg)
