@@ -39,7 +39,7 @@
    > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as 
    > such this. The  text will keep wrapping in the block, until there's an empty line is added. 
 ```
-|
+
 ## Creating Lists
 
 Unordered Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
@@ -76,7 +76,7 @@ Code Format:
       1. a numbered list
 ```
  
-|
+
 ## Linking URLs or Images 
 You can create links to navigate to URLs. For eg: Go to [Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/), which is formatted as below: 
 
@@ -91,7 +91,7 @@ Images: (Use ! at the beginning)
 ```
 
 
-|
+
 ## Creating a table
 Code Format:
 
@@ -115,7 +115,7 @@ Output:
 |7|Edinson Cavani|Striker
 |6|Paul Pogba|Defensive Midfielder
 
-|
+
 ## Code Block
 Use (```) (three uptick symbols) to start and end a code block 
 
