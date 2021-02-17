@@ -14,7 +14,7 @@
 
 - ~~Strikeout~~ - Use ~~ symbols around the text for strikeout.  
 
-- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces. It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+- > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences. It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
 
 - Unordered Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
    - List 1
@@ -43,7 +43,7 @@ Underline (lol)
 
 ~~Strikeout~~ 
 
-> Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
+> Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentences.
    It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
 
 Bulleted Lists
