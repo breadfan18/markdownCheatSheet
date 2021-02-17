@@ -1,6 +1,6 @@
 # markdownCheatSheet
 
-#Welcome to Cincinnati World Cup 2018 Brackets
+# Welcome to Cincinnati World Cup 2018 Brackets
  
 ![2018-russia-world-cup](https://user-images.githubusercontent.com/38883585/39490598-639a5c58-4d57-11e8-9c1e-9b266432149a.jpg)
  
