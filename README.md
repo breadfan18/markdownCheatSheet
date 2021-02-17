@@ -1,6 +1,7 @@
 
 # Welcome to Swaroop's Markdown CheatSheet 
 
+
 ![swaroop-and-dex-tahoe](https://i.imgur.com/XO8h0c8.jpg)
 
 ## Linking URLs or Images 
@@ -12,7 +13,7 @@ Normal Text:
 [Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/)
 
 Images: (Use ! at the beginning)
-![2018-russia-world-cup](https://i.imgur.com/XO8h0c8.jpg)
+![swaroop-and-dex-tahoe](https://i.imgur.com/XO8h0c8.jpg)
 
 ```
 
@@ -27,12 +28,25 @@ Images: (Use ! at the beginning)
 
 - Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
 
+- ~~Strikeout~~ - Use ~~ symbols around the text for strikeout.  
+
 - > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
    It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+
+- Bulleted Lists (Using the '-' hyphen symbol, and indentation to create sub lists)
+   - List 1
+      - Sublist 1
+      - Sublist 2
+   - List 2
+   - List 3
+
+- Numbered Lists (Use the number 1 to create numbered lists. You can use bulleted sublists within numbered lists)
+   1. This is how
+      - bulleted list
+      - within numbered list
+   1. you create
+   1. a numbered list
       
-
-
-Line Breaks - 
  ```
 *Italicize*  
 
@@ -40,8 +54,24 @@ Line Breaks -
 
 Underline (lol)
 
+~~Strikeout~~ 
+
 > Block Quotes - Create block quotes by using the ">" symbol at the beginnign of sentesces.
    It will add a block as such this. The  text will keep wrapping in the block, until there's an empty line is added. 
+
+- Bulleted Lists
+   - List 1
+      - Sublist 1
+      - Sublist 2
+   - List 2
+   - List 3
+
+- Numbered Lists
+   1. This is how
+      - bulleted list
+      - within numbered list
+   1. you create
+   1. a numbered list
 ```
  
 
@@ -71,25 +101,30 @@ Output:
 |6|Paul Pogba|Defensive Midfielder
 
 
+## Code Block
+Use (```) (three uptick symbols) to start and end a code block 
+
+Code Format:
+
+![test](https://i.imgur.com/KnF3OLA.png)
 
 
-
-\
-You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-#### Markdown
-Test 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Output
 ```
-function myFucntion(name){
+function myFunction(name){
    console.log(name + " is just messing around with markdown syntax");
 } 
 
 ```
+
+
+You can use the [editor on GitHub](https://github.com/breadfan18/breadfan18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
 
 
 - Bulleted
