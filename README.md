@@ -14,7 +14,7 @@
 
 - ~~Strikeout~~ - Use ~~ Wrap text with (~~) symbols around the text for strikeout.  
 
-- Single line Code formatting `<span id="mySpan">Test</span>` - Surround desired text with (`) uptick symbols to format code style
+- Single line Code formatting `<span id="mySpan">Test</span>` - Surround desired text with (`) acute symbols to format code style
 
 - Underline - Tough Luck, apparently markdown doesn't have a definte syntax to underline. :(
 ```
@@ -117,7 +117,7 @@ Output:
 
 
 ## Code Block
-Use (```) (three uptick symbols) to start and end a code block 
+Use (```) (three acute symbols) to start and end a code block 
 
 Code Format:
 
