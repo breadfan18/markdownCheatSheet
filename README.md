@@ -83,7 +83,7 @@ You can create links to navigate to URLs. For eg: Go to [Reddit-Reddevils](https
 You can also show Images like the one above using the format below:
 ```
 Normal Text:
-[Reddit-Reddevils](https://https://www.reddit.com/r/reddevils/)
+[Reddit-Reddevils](https://www.reddit.com/r/reddevils/)
 
 Images: (Use ! at the beginning)
 ![swaroop-and-dex-tahoe](https://i.imgur.com/XO8h0c8.jpg)
